@@ -78,4 +78,5 @@ print("the result number is:", result)"""
 Sample function : abs()
 Expected Result :
 abs(number) -> number
-Return the absolute value of the argument."""
+Return the absolute value of the argument
+print(len.__doc__)"""
