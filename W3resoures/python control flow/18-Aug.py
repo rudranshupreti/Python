@@ -45,10 +45,9 @@ for i in range(0, 6):
         print("")
     else:
         print(i)"""
-
-# Write a Python program to get the Fibonacci series between 0 and 50.
+"""Write a Python program to get the Fibonacci series between 0 and 50.
 
 a, b = 0, 1
 while a <= 50:
     print(a, end=",")
-    a, b = b, a + b
+    a, b = b, a + b"""
